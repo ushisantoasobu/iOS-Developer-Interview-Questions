@@ -9,3 +9,5 @@ http://nsblogger.hatenablog.com/entry/2016/12/24/ios_interview
 ## [wip] 自分で調べながら答えてみる
 
 ## [wip] 感想をまとめる
+
+## [wip] 他にこういった質問があれば面白いのでは？というものがあれば書いてみる
